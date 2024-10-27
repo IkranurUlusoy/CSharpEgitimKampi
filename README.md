@@ -7,3 +7,5 @@
 📍Proje6: Dizi Metodları, dizideki tüm elemanları listeme konularını tamamladım.
 📍Proje7: Foreach döngüsü konusunu tamamaldım ve bir örnek sınav sistemi uygulaması yaptım.
 📍Proje8: Void Metotlar, Geriye Değer Döndürmeyen Parametreli Metotlar, Geriye Değer Döndüren Metotlar konularını tamamladım.
+📍Proje9: SQL Veri Tabanı ve Tablo Oluşturma & C# Kısmına Bağlama konularını tamamladım.
+📍Proje10: C# ile SQL Listeleme Ekleme Güncelleme ve Silme İşlemleri konularını tamamladım.
